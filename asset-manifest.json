@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/pwa-rqpay-proto/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/pwa-rqpay-proto/static/js/main.6a29e9ee.chunk.js",
-    "main.js.map": "/pwa-rqpay-proto/static/js/main.6a29e9ee.chunk.js.map",
+    "main.js": "/pwa-rqpay-proto/static/js/main.3f2d8dc6.chunk.js",
+    "main.js.map": "/pwa-rqpay-proto/static/js/main.3f2d8dc6.chunk.js.map",
     "runtime-main.js": "/pwa-rqpay-proto/static/js/runtime-main.e902ec84.js",
     "runtime-main.js.map": "/pwa-rqpay-proto/static/js/runtime-main.e902ec84.js.map",
-    "static/js/2.e3e6368c.chunk.js": "/pwa-rqpay-proto/static/js/2.e3e6368c.chunk.js",
-    "static/js/2.e3e6368c.chunk.js.map": "/pwa-rqpay-proto/static/js/2.e3e6368c.chunk.js.map",
+    "static/js/2.6b63fac8.chunk.js": "/pwa-rqpay-proto/static/js/2.6b63fac8.chunk.js",
+    "static/js/2.6b63fac8.chunk.js.map": "/pwa-rqpay-proto/static/js/2.6b63fac8.chunk.js.map",
     "index.html": "/pwa-rqpay-proto/index.html",
-    "precache-manifest.e2ce481d1fc8efed7ce255de13ae17dd.js": "/pwa-rqpay-proto/precache-manifest.e2ce481d1fc8efed7ce255de13ae17dd.js",
+    "precache-manifest.c32730ed2052d57483d5ec3fc5efb82e.js": "/pwa-rqpay-proto/precache-manifest.c32730ed2052d57483d5ec3fc5efb82e.js",
     "service-worker.js": "/pwa-rqpay-proto/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/pwa-rqpay-proto/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.e3e6368c.chunk.js.LICENSE.txt": "/pwa-rqpay-proto/static/js/2.e3e6368c.chunk.js.LICENSE.txt"
+    "static/js/2.6b63fac8.chunk.js.LICENSE.txt": "/pwa-rqpay-proto/static/js/2.6b63fac8.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/pwa-rqpay-proto/static/media/logo.4dd7db78.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e902ec84.js",
-    "static/js/2.e3e6368c.chunk.js",
+    "static/js/2.6b63fac8.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.6a29e9ee.chunk.js"
+    "static/js/main.3f2d8dc6.chunk.js"
   ]
 }

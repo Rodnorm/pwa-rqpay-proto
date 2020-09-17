@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pwa-rqpay-proto/precache-manifest.e2ce481d1fc8efed7ce255de13ae17dd.js"
+  "/pwa-rqpay-proto/precache-manifest.c32730ed2052d57483d5ec3fc5efb82e.js"
 );
 
 self.addEventListener('message', (event) => {
