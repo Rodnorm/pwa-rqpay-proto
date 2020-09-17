@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9b9d4188dae6af3ba79b77bd4064f41",
+    "revision": "b72bb9b3bb92bb859bed80f109a8d076",
     "url": "/pwa-rqpay-proto/index.html"
   },
   {
-    "revision": "7cb0240e1c96ad946141",
+    "revision": "aa7645bff91bd92758af",
     "url": "/pwa-rqpay-proto/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwa-rqpay-proto/static/js/2.e3e6368c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7cb0240e1c96ad946141",
-    "url": "/pwa-rqpay-proto/static/js/main.99c46851.chunk.js"
+    "revision": "aa7645bff91bd92758af",
+    "url": "/pwa-rqpay-proto/static/js/main.6a29e9ee.chunk.js"
   },
   {
     "revision": "880bff0d04ee51acf4f6",
