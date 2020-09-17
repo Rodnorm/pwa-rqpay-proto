@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "137f2f0f9f5444b39ec9647fc459aad3",
+    "revision": "a9b9d4188dae6af3ba79b77bd4064f41",
     "url": "/pwa-rqpay-proto/index.html"
   },
   {
