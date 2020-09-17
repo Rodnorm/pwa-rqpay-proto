@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pwa-rqpay-proto/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/pwa-rqpay-proto/static/js/main.99c46851.chunk.js",
+    "main.js.map": "/pwa-rqpay-proto/static/js/main.99c46851.chunk.js.map",
+    "runtime-main.js": "/pwa-rqpay-proto/static/js/runtime-main.e902ec84.js",
+    "runtime-main.js.map": "/pwa-rqpay-proto/static/js/runtime-main.e902ec84.js.map",
+    "static/js/2.e3e6368c.chunk.js": "/pwa-rqpay-proto/static/js/2.e3e6368c.chunk.js",
+    "static/js/2.e3e6368c.chunk.js.map": "/pwa-rqpay-proto/static/js/2.e3e6368c.chunk.js.map",
+    "index.html": "/pwa-rqpay-proto/index.html",
+    "precache-manifest.b0e6468a49525ded78b636ab75613db8.js": "/pwa-rqpay-proto/precache-manifest.b0e6468a49525ded78b636ab75613db8.js",
+    "service-worker.js": "/pwa-rqpay-proto/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/pwa-rqpay-proto/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e3e6368c.chunk.js.LICENSE.txt": "/pwa-rqpay-proto/static/js/2.e3e6368c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e902ec84.js",
+    "static/js/2.e3e6368c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.99c46851.chunk.js"
+  ]
+}
